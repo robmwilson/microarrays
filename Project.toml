@@ -1,0 +1,4 @@
+name = "microarrays"
+uuid = "41bf6290-1fdd-45ca-bc4a-3e16f81a983b"
+authors = ["robmwilson <rwilson@mit.edu>"]
+version = "0.1.0"
